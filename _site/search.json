@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "mysite",
+    "section": "",
+    "text": "To learn more about Quarto websites visit https://quarto.org/docs/websites."
+  },
+  {
+    "objectID": "seccion1.html",
+    "href": "seccion1.html",
+    "title": "mysite",
+    "section": "",
+    "text": "Este es un ejemplo de texto que da entrada a una lista genérica de elementos: - Elemento 1\n\nElemento 2\nElemento 3\n\nEste es un ejemplo de texto que da entrada a una lista numerada: 1. Elemento 1\n\nElemento 2\nElemento 3\n\nAl texto en Markdown puedes añadirle formato como negrita o cursiva de una manera muy sencilla."
+  }
+]
